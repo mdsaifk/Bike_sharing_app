@@ -1,5 +1,5 @@
 # Bike_sharing_app
-## Bike-sharing system are meant to rent the bicycle and 
+Bike-sharing system are meant to rent the bicycle and 
 return to the different place for the bike sharing purpose
 in Washington DC. You are provided with rental data spanning 
 for 2 years. You must predict the total count of bikes rented
